@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "widgets": {
+    "queue-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler"
+      ],
+      "notes": "Early access testers"
+    },
+
+    "fireworks-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus"
+      ],
+      "notes": "Production"
+    }
+  }
+}
