@@ -17,6 +17,13 @@
         "over_titus"
       ],
       "notes": "Production"
+    },
+    "garden-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus"
+      ],
+      "notes": "Production"
     }
   }
 }
