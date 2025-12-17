@@ -21,7 +21,8 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
-        "over_titus"
+        "over_titus",
+        "sophisticatedtoddler"
       ],
       "notes": "Production"
     }
