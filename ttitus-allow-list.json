@@ -25,6 +25,14 @@
         "sophisticatedtoddler"
       ],
       "notes": "Production"
+    },
+    "rain-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler"
+      ],
+      "notes": "Production"
     }
   }
 }
