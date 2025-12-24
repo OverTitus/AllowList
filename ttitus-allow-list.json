@@ -33,6 +33,20 @@
         "sophisticatedtoddler"
       ],
       "notes": "Production"
+    },
+    "christmas-lights": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "TheKCKingTTV",
+        "haley_babyttv",
+        "Da_Vinci_B",
+        "dragonkeep_ttv",
+        "RIPmika",
+        "Lumeonix"
+      ],
+      "notes": "Production"
     }
   }
 }
