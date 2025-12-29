@@ -48,6 +48,49 @@
         "FoxieKat"
       ],
       "notes": "Production"
+    },
+    "Blood-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "AdamTheBloody",
+        "blueberrybats",
+        "Deto_Envy",
+        "discoinferno0",
+        "Leegamesthings",
+        "sp000kyqueen",
+        "sophisticatedToddler",
+        "fullmetalvanity",
+        "HaerowenXD",
+        "vipestsg",
+        "happydabss",
+        "ItsCammyDubs",
+        "quillpe",
+        "TheKCKingTTV",
+        "AdamTheBloody",
+        "necessarycargo_",
+        "msnerdrage",
+        "moodgoblin",
+        "IDKPedro",
+        "therexbellator",
+        "Tempestkn1ght",
+        "ogbradvickers",
+        "whisqey",
+        "Caztiana",
+        "PiaPiUFO",
+        "Lisa_Mac",
+        "MyBloodyPsycho",
+        "RygonePlays",
+        "crimsonsugardaddy",
+        "momiq_",
+        "Op_Skelly",
+        "EmergencyGay",
+        "elaguacatettv",
+        "Iricorpse",
+        "Virginwhocantdrivex",
+        "PlagueW1tch"
+      ],
+      "notes": "Production"
     }
   }
 }
