@@ -10,7 +10,6 @@
       ],
       "notes": "Early access testers"
     },
-
     "fireworks-overlay": {
       "enabled": true,
       "allowedChannels": [
@@ -89,6 +88,38 @@
         "Iricorpse",
         "Virginwhocantdrivex",
         "PlagueW1tch"
+      ],
+      "notes": "Production"
+    },
+    "space-tracker": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "jason38x",
+        "laviathn",
+        "AdamTheBloody",
+        "leegamesthings",
+        "blueberrybats",
+        "discoinferno0",
+        "sp000kyQueen",
+        "deto_envy",
+        "TheKCKingTTV",
+        "MysticalTempest",
+        "DeviMayCryTTV",
+        "KatastropheKS",
+        "WhereIZZYtho",
+        "Stanley_551",
+        "EmergencyGay",
+        "gamefreekbr87",
+        "MrKalyman",
+        "twospirittrickster",
+        "Caztiana",
+        "djmarvelcincy",
+        "FATstronaut",
+        "alexkingyt",
+        "ZukaTheAnimal",
+        "The_Himbolorian"
       ],
       "notes": "Production"
     }
