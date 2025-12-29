@@ -130,6 +130,16 @@
         "jasonbowie"
       ],
       "notes": "Production"
+    },
+    "trolling-tracker": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "toolsbytitus",
+        "MarioXYZ_"
+      ],
+      "notes": "Production"
     }
   }
 }
