@@ -140,6 +140,27 @@
         "MarioXYZ_"
       ],
       "notes": "Production"
+    },
+    "guess-a-game": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus", 
+        "adamthebloody", 
+        "sophisticatedToddler", 
+        "thekckingttv", 
+        "olyashaa",
+        "vrykerion", 
+        "kohrean", 
+        "ZukaTheAnimal",
+        "Shnumi",
+        "Streamirka",
+        "Iricorpse",
+        "soupisontwitch",
+        "croustyb4t",
+        "RIPmika",
+        "Sulli_2D"
+      ],
+      "notes": "Production"
     }
   }
 }
