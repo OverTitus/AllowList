@@ -122,6 +122,14 @@
         "The_Himbolorian"
       ],
       "notes": "Production"
+    },
+    "brickbreaker-chat": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "jasonbowie"
+      ],
+      "notes": "Production"
     }
   }
 }
