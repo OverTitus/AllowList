@@ -8,14 +8,14 @@
         "sophisticatedtoddler",
         "TheKCKingTTV"
       ],
-      "notes": "Early access testers"
+      "notes": "Etsy Link updated and on Railway"
     },
     "fireworks-overlay": {
       "enabled": true,
       "allowedChannels": [
         "over_titus"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "garden-overlay": {
       "enabled": true,
@@ -23,7 +23,7 @@
         "over_titus",
         "sophisticatedtoddler"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "rain-overlay": {
       "enabled": true,
@@ -31,7 +31,7 @@
         "over_titus",
         "sophisticatedtoddler"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "christmas-lights": {
       "enabled": true,
@@ -46,7 +46,7 @@
         "Lumeonix",
         "FoxieKat"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "Blood-overlay": {
       "enabled": true,
@@ -89,7 +89,7 @@
         "Virginwhocantdrivex",
         "PlagueW1tch"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "space-tracker": {
       "enabled": true,
@@ -121,7 +121,7 @@
         "ZukaTheAnimal",
         "The_Himbolorian"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "brickbreaker-chat": {
       "enabled": true,
@@ -129,7 +129,7 @@
         "over_titus",
         "jasonbowie"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "trolling-tracker": {
       "enabled": true,
@@ -139,7 +139,7 @@
         "toolsbytitus",
         "MarioXYZ_"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "guess-a-game": {
       "enabled": true,
@@ -160,7 +160,7 @@
         "RIPmika",
         "Sulli_2D"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "dbd-tracker": {
       "enabled": true,
@@ -213,7 +213,7 @@
         "WheatMom_",
         "quasarsttv"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
     },
     "subathon-overlay": {
       "enabled": true,
@@ -226,7 +226,52 @@
         "derrickwh0",
         "CommanderHawk"
       ],
-      "notes": "Production"
+      "notes": "Etsy Link updated and on Railway"
+    },
+    "snow-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "jason38x",
+        "laviathn",
+        "AdamTheBloody",
+        "leegamesthings",
+        "blueberrybats",
+        "discoinferno0",
+        "sp000kyQueen",
+        "deto_envy",
+        "TheKCKingTTV",
+        "MysticalTempest",
+        "DeviMayCryTTV",
+        "SylverDreamer",
+        "Rosieocean",
+        "JayWhitestor",
+        "ogbradvickers",
+        "hotspotstellA",
+        "lady_blu_noir",
+        "TheKCKingTTV",
+        "Pixyinacan",
+        "Littleelemonn",
+        "TyFrog",
+        "CDO_TyFrog",
+        "sterling_ivy",
+        "gingie78",
+        "ZukaTheAnimal",
+        "MysticalTempest",
+        "KitteaPainter",
+        "caztiana",
+        "Tulpa_Helena",
+        "Heathen_Rauour",
+        "Pantz19_TTV",
+        "benehh",
+        "Pryja",
+        "jasonbowie",
+        "croustyb4t",
+        "elynaen",
+        "Livana_Wolf"
+      ],
+      "notes": "Etsy Link updated and on Railway"
     }
   }
 }
