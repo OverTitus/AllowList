@@ -1,15 +1,11 @@
 {
   "version": 2,
     "users": {
-    "streamirka": {
+    "over_Titus": {
       "source": "patreon",
       "tier": "core",
       "limit": 5,
       "widgets": [
-        "rain-overlay",
-        "garden-overlay",
-        "queue-overlay",
-        "guess-a-game",
         "snow-overlay"
       ]
     }
@@ -245,7 +241,6 @@
     "snow-overlay": {
       "enabled": true,
       "allowedChannels": [
-        "over_titus",
         "sophisticatedtoddler",
         "jason38x",
         "laviathn",
