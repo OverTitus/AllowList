@@ -214,6 +214,19 @@
         "quasarsttv"
       ],
       "notes": "Production"
+    },
+    "subathon-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus", 
+        "sophisticatedtoddler", 
+        "mysticaltempest", 
+        "blueberrybats", 
+        "TheKCKingTTV",
+        "derrickwh0",
+        "CommanderHawk"
+      ],
+      "notes": "Production"
     }
   }
 }
