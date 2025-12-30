@@ -272,6 +272,20 @@
         "Livana_Wolf"
       ],
       "notes": "Etsy Link updated and on Railway"
+    },
+    "sand-overlay": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "Stanley_551",
+        "sophisticatedtoddler",
+        "Wifey677",
+        "AdamTheBloody",
+        "adamthebloody",
+        "gamefreekbr87",
+        "MrKalyman"
+      ],
+      "notes": "Etsy Link updated and on Railway"
     }
   }
 }
