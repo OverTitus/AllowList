@@ -1,5 +1,19 @@
 {
-  "version": 1,
+  "version": 2,
+    "users": {
+    "streamirka": {
+      "source": "patreon",
+      "tier": "core",
+      "limit": 5,
+      "widgets": [
+        "rain-overlay",
+        "garden-overlay",
+        "queue-overlay",
+        "guess-a-game",
+        "snow-overlay"
+      ]
+    }
+  },
   "widgets": {
     "queue-overlay": {
       "enabled": true,
