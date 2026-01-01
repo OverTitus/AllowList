@@ -296,6 +296,16 @@
         "MrKalyman"
       ],
       "notes": "Etsy Link updated and on Railway"
+    },
+    "cheeky-chatter": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "toolsbytitus",
+        "MarioXYZ_"
+      ],
+      "notes": "Etsy Link updated and on Railway"
     }
   }
 }
