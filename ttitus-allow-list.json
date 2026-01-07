@@ -317,6 +317,15 @@
         "MarioXYZ_"
       ],
       "notes": "Etsy Link updated and on Railway"
+    },
+    "raid-ball": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "TheKCKingTTV"
+      ],
+      "notes": "Etsy Link updated and on Railway"
     }
   }
 }
