@@ -194,6 +194,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "voodoo_bunz",
         "over_titus",
         "sophisticatedtoddler",
         "jason38x",
