@@ -345,6 +345,15 @@
         "over_titus",
         "sophisticatedtoddler"      ],
       "notes": "Etsy Link updated and on Railway"
+    },
+    "clip-player": {
+      "enabled": true,
+      "allowedChannels": [
+        "over_titus",
+        "sophisticatedtoddler",
+        "TheKCKingTTV"
+      ],
+      "notes": "Etsy Link updated and on Railway"
     }
   }
 }
