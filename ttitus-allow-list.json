@@ -194,6 +194,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "Indestructible_asf",
         "voodoo_bunz",
         "over_titus",
         "sophisticatedtoddler",
