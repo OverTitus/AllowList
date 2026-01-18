@@ -30,6 +30,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "StormyMoonMeadow",
         "over_titus",
         "sophisticatedtoddler",
         "roseygaming19",
