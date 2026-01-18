@@ -30,6 +30,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "Pantz19TV",
         "StormyMoonMeadow",
         "over_titus",
         "sophisticatedtoddler",
