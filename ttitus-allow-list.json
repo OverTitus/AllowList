@@ -200,6 +200,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "KitsuAfterDark",
         "Indestructible_asf",
         "voodoo_bunz",
         "over_titus",
