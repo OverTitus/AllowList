@@ -153,6 +153,7 @@
     "brickbreaker-chat": {
       "enabled": true,
       "allowedChannels": [
+        "DRAG0REXX",
         "over_titus",
         "jasonbowie",
         "Raw47"
@@ -174,6 +175,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "DRAG0REXX",
         "MikiDiese",
         "over_titus", 
         "adamthebloody", 
