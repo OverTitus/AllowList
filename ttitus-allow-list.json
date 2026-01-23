@@ -116,6 +116,7 @@
     "space-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "EvrenFlux",
         "over_titus",
         "sophisticatedtoddler",
         "jason38x",
