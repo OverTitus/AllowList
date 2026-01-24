@@ -201,6 +201,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "ZombieHerself",
         "KitsuAfterDark",
         "Indestructible_asf",
         "voodoo_bunz",
