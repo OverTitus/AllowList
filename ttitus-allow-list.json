@@ -30,6 +30,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "SlayingSiren",
         "Pantz19_TTV",
         "pantz19tv",
         "StormyMoonMeadow",
