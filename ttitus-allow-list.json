@@ -178,6 +178,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Dontrachquit",
         "DRAG0REXX",
         "MikiDiese",
         "over_titus", 
