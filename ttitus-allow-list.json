@@ -206,6 +206,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "Rated_JDawg",
         "ZombieHerself",
         "KitsuAfterDark",
         "Indestructible_asf",
