@@ -179,6 +179,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "SarielEria",
         "syth202",
         "Dontrachquit",
         "DRAG0REXX",
