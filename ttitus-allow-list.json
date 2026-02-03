@@ -75,6 +75,7 @@
     "Blood-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "ColdBloodCo",
         "over_titus",
         "AdamTheBloody",
         "blueberrybats",
@@ -275,6 +276,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "poison__lily",
         "over_titus", 
         "sophisticatedtoddler", 
         "mysticaltempest", 
