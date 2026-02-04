@@ -212,6 +212,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "Joyfulkitsune",
         "aevanplays",
         "kultrshok",
         "Rated_JDawg",
