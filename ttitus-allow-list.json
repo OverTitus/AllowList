@@ -183,6 +183,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "bostondk31",
         "NeverEnoughCaffeine",
         "SarielEria",
         "syth202",
