@@ -213,6 +213,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "laboricuasasha",
         "Joyfulkitsune",
         "aevanplays",
         "kultrshok",
