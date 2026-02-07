@@ -214,6 +214,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "steveonfinal",
         "laboricuasasha",
         "Wys_Leigh",
         "Joyfulkitsune",
