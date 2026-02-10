@@ -32,6 +32,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "sterling_ivy",
         "SystemFoxgloves",
         "Mandababee",
         "WTG_FinMintTTV",
