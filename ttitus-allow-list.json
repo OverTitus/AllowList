@@ -32,6 +32,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "Wildhornberry",
         "theqoffeeshop",
         "Sunnyintheshade",
         "sterling_ivy",
