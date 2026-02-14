@@ -32,6 +32,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "NixFlare",
         "Wildhornberry",
         "theqoffeeshop",
         "Sunnyintheshade",
