@@ -371,6 +371,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "BeardedHumie",
         "over_titus",
         "sophisticatedtoddler",
         "TheKCKingTTV",
