@@ -219,6 +219,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "Mimila_Amare",
         "BeardedHumie",
         "BrenAndButterr",
         "steveonfinal",
