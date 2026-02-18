@@ -176,6 +176,7 @@
     "trolling-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "TheB1GBuddha",
         "over_titus",
         "sophisticatedtoddler",
         "toolsbytitus",
@@ -219,6 +220,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "kaz_bomb",
         "Mimila_Amare",
         "BeardedHumie",
         "BrenAndButterr",
@@ -373,6 +375,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "TheB1GBuddha",
         "BeardedHumie",
         "over_titus",
         "sophisticatedtoddler",
