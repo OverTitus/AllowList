@@ -190,6 +190,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "ghouly",
         "bostondk31",
         "NeverEnoughCaffeine",
         "SarielEria",
