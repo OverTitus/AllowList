@@ -190,6 +190,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "iron_iridium",
         "TUNAFORLUNCH",
         "ghouly",
         "bostondk31",
