@@ -190,6 +190,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "TUNAFORLUNCH",
         "ghouly",
         "bostondk31",
         "NeverEnoughCaffeine",
