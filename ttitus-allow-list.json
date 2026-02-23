@@ -226,6 +226,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "DragonKeep_TTV",
         "kaz_bomb",
         "Mimila_Amare",
         "BeardedHumie",
@@ -381,6 +382,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "DragonKeep_TTV",
         "Snuckles72",
         "TheB1GBuddha",
         "BeardedHumie",
