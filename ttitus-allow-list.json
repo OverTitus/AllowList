@@ -193,6 +193,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "CassieTheCasual",
         "ezabet",
         "iron_iridium",
         "TUNAFORLUNCH",
