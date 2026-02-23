@@ -32,6 +32,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "ezabet",
         "NixFlare",
         "Wildhornberry",
         "theqoffeeshop",
@@ -56,6 +57,7 @@
     "rain-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "ezabet",
         "over_titus",
         "sophisticatedtoddler",
         "TheKCKingTTV"
@@ -190,6 +192,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "ezabet",
         "iron_iridium",
         "TUNAFORLUNCH",
         "ghouly",
