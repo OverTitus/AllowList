@@ -178,6 +178,7 @@
     "trolling-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "vintagesewgal",
         "TheB1GBuddha",
         "over_titus",
         "sophisticatedtoddler",
