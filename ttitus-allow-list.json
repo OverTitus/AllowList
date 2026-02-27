@@ -84,6 +84,7 @@
     "Blood-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "yuimiragevt",
         "ColdBloodCo",
         "over_titus",
         "AdamTheBloody",
