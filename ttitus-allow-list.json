@@ -229,6 +229,7 @@
     "dbd-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "vtdaddy",
         "DragonKeep_TTV",
         "kaz_bomb",
         "Mimila_Amare",
