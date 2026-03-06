@@ -33,6 +33,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "LauraPlaysCozy",
         "GORM",
         "instantcoco",
         "ezabet",
