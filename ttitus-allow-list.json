@@ -390,6 +390,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "gwenokami",
         "Zelephs",
         "DragonKeep_TTV",
         "Snuckles72",
