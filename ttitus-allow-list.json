@@ -198,6 +198,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "AltruisticNico",
         "verucca_assault",
         "CassieTheCasual",
         "ezabet",
