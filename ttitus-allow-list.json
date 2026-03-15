@@ -392,6 +392,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "AbsChats",
         "gwenokami",
         "Zelephs",
         "DragonKeep_TTV",
