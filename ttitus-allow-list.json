@@ -71,6 +71,7 @@
     "christmas-lights": {
       "enabled": true,
       "allowedChannels": [
+        "StitchedPlushie24",
         "over_titus",
         "sophisticatedtoddler",
         "TheKCKingTTV",
