@@ -199,6 +199,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "JoesOldGames",
         "AltruisticNico",
         "verucca_assault",
         "CassieTheCasual",
