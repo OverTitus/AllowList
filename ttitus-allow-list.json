@@ -394,6 +394,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "sp000kyqueen",
         "quillpe",
         "AbsChats",
         "gwenokami",
