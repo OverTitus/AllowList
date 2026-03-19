@@ -71,6 +71,7 @@
     "christmas-lights": {
       "enabled": true,
       "allowedChannels": [
+        "Supermax20",
         "StitchedPlushie24",
         "over_titus",
         "sophisticatedtoddler",
