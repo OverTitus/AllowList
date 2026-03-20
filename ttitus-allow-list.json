@@ -395,6 +395,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "silentstormvt",
         "sp000kyqueen",
         "quillpe",
         "AbsChats",
