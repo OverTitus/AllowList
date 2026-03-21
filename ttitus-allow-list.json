@@ -312,6 +312,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "JustFrizz__",
         "poison__lily",
         "over_titus", 
         "sophisticatedtoddler", 
