@@ -175,6 +175,7 @@
     "brickbreaker-chat": {
       "enabled": true,
       "allowedChannels": [
+        "HouseofThirsTea",
         "DRAG0REXX",
         "over_titus",
         "jasonbowie",
