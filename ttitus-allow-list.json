@@ -398,6 +398,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "SCOO_D_TV",
         "silentstormvt",
         "sp000kyqueen",
         "quillpe",
