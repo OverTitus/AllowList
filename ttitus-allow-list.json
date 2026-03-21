@@ -201,6 +201,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "SCOO_D_TV",
         "JoesOldGames",
         "AltruisticNico",
         "verucca_assault",
