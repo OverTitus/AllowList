@@ -314,6 +314,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "SylverDreamer",
         "JustFrizz__",
         "poison__lily",
         "over_titus", 
@@ -398,6 +399,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "SylverDreamer",
         "redrumdoll77",
         "ZombieHerself",
         "SCOO_D_TV",
