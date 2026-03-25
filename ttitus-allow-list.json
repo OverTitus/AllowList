@@ -399,6 +399,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "napalm_queen",
         "SylverDreamer",
         "redrumdoll77",
         "ZombieHerself",
