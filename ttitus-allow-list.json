@@ -401,6 +401,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "DanzasCubanas",
         "ExitN9ner",
         "napalm_queen",
         "SylverDreamer",
