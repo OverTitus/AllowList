@@ -315,6 +315,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "CinemaZee",
         "Roomyxx",
         "SylverDreamer",
         "JustFrizz__",
