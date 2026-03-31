@@ -377,6 +377,7 @@
     "sand-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "wrythtv",
         "over_titus",
         "Stanley_551",
         "sophisticatedtoddler",
