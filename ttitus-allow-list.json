@@ -402,6 +402,7 @@
     "raid-ball": {
       "enabled": true,
       "allowedChannels": [
+        "volexec",
         "DanzasCubanas",
         "ExitN9ner",
         "napalm_queen",
