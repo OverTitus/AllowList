@@ -203,6 +203,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Bearenade",
         "SCOO_D_TV",
         "JoesOldGames",
         "AltruisticNico",
