@@ -204,6 +204,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "skinnedteen",
         "JMD1993",
         "Bearenade",
         "SCOO_D_TV",
