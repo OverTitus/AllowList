@@ -205,6 +205,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "MinisterGold",
         "skinnedteen",
         "JMD1993",
         "Bearenade",
