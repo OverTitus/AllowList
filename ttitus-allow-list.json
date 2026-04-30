@@ -209,6 +209,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "zauberhaftzerstreut",
         "MinisterGold",
         "skinnedteen",
         "JMD1993",
