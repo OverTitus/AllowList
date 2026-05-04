@@ -209,6 +209,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Hot_puma7",
         "zauberhaftzerstreut",
         "MinisterGold",
         "skinnedteen",
