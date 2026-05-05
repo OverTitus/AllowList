@@ -328,6 +328,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "Quillpe",
         "pyroperk",
         "kizzzat",
         "CinemaZee",
