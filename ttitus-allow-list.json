@@ -210,6 +210,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Pixienaut",
         "Hot_puma7",
         "zauberhaftzerstreut",
         "MinisterGold",
