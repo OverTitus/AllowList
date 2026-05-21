@@ -184,6 +184,7 @@
     "brickbreaker-chat": {
       "enabled": true,
       "allowedChannels": [
+        "TieTassel",
         "HouseofThirsTea",
         "DRAG0REXX",
         "over_titus",
