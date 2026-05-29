@@ -211,6 +211,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "rayxven",
         "seraphim358",
         "LuuZiaaTV",
         "Pixienaut",
