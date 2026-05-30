@@ -335,6 +335,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "rdl_sa_mariahcarey_elia",
         "Quillpe",
         "pyroperk",
         "kizzzat",
