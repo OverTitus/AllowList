@@ -196,6 +196,7 @@
     "trolling-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "Witchy_Tea_Cup",
         "vintagesewgal",
         "TheB1GBuddha",
         "over_titus",
