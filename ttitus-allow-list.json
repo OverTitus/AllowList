@@ -14,6 +14,7 @@
     "queue-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "racelin_",
         "xdemirose",
         "DeltaSprout",
         "semebay",
