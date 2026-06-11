@@ -216,6 +216,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Prismayuuki",
         "danelah",
         "rayxven",
         "seraphim358",
