@@ -14,6 +14,7 @@
     "queue-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "RedFalxonX",
         "thejayess",
         "MrSnizzie",
         "racelin_",
@@ -77,6 +78,7 @@
     "christmas-lights": {
       "enabled": true,
       "allowedChannels": [
+        "RedFalxonX",
         "danelah",
         "wormcurse",
         "vipesfrontier",
@@ -216,6 +218,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "RedFalxonX",
         "Prismayuuki",
         "danelah",
         "rayxven",
