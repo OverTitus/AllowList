@@ -220,6 +220,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "missj4cky",
         "RedFalxonX",
         "Prismayuuki",
         "danelah",
