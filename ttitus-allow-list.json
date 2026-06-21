@@ -204,6 +204,7 @@
     "trolling-tracker": {
       "enabled": true,
       "allowedChannels": [
+        "PREZify",
         "Witchy_Tea_Cup",
         "vintagesewgal",
         "TheB1GBuddha",
