@@ -348,6 +348,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "therealdadvenger",
         "rdl_sa_mariahcarey_elia",
         "Quillpe",
         "pyroperk",
