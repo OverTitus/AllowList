@@ -222,6 +222,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "stupidkoi",
         "missj4cky",
         "RedFalxonX",
         "Prismayuuki",
