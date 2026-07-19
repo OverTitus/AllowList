@@ -221,6 +221,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "privateer3000",
         "missj4cky",
         "RedFalxonX",
         "Prismayuuki",
