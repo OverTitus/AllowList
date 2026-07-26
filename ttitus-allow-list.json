@@ -193,6 +193,7 @@
     "brickbreaker-chat": {
       "enabled": true,
       "allowedChannels": [
+        "trevitogaming",
         "TieTassel",
         "HouseofThirsTea",
         "DRAG0REXX",
