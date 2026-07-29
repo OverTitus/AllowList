@@ -224,6 +224,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Voodooaffect",
         "privateer3000",
         "stupidkoi",
         "missj4cky",
