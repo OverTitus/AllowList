@@ -354,6 +354,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "beardedrhynox",
         "therealdadvenger",
         "rdl_sa_mariahcarey_elia",
         "Quillpe",
