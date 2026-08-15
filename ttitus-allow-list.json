@@ -225,6 +225,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Twoshotsb2",
         "Darkliberator69",
         "Voodooaffect",
         "privateer3000",
