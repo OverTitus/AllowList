@@ -80,6 +80,7 @@
     "christmas-lights": {
       "enabled": true,
       "allowedChannels": [
+        "TeddyBearTales",
         "RedFalxonX",
         "danelah",
         "wormcurse",
@@ -382,6 +383,7 @@
     "snow-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "TeddyBearTales",
         "snazzysketches",
         "sophisticatedtoddler",
         "jason38x",
