@@ -226,6 +226,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "tinky14",
         "SingerLisa",
         "Twoshotsb2",
         "Darkliberator69",
