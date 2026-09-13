@@ -41,6 +41,7 @@
     "garden-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "AydriTea",
         "LauraPlaysCozy",
         "GORM",
         "instantcoco",
