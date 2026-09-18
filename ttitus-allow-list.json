@@ -227,6 +227,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "SiD867",
         "cannibalblue",
         "tinky14",
         "SingerLisa",
