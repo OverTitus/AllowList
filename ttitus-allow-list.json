@@ -227,6 +227,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "Hier_kommt_Kurt",
         "SiD867",
         "cannibalblue",
         "tinky14",
