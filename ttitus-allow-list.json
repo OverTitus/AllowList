@@ -364,6 +364,7 @@
     "subathon-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "Lisa_Mac",
         "Angiecandii",
         "nikkihurray",
         "beardedrhynox",
