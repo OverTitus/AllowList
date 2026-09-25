@@ -228,6 +228,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "chupttv",
         "Hier_kommt_Kurt",
         "SiD867",
         "cannibalblue",
