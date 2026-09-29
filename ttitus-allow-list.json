@@ -228,6 +228,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "KessieBear",
         "chupttv",
         "Hier_kommt_Kurt",
         "SiD867",
