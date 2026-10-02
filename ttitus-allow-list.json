@@ -394,6 +394,7 @@
     "snow-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "Angelcandy_115",
         "lizzihatter",
         "TeddyBearTales",
         "snazzysketches",
