@@ -108,6 +108,7 @@
     "Blood-overlay": {
       "enabled": true,
       "allowedChannels": [
+        "mirage__x",
         "yuimiragevt",
         "ColdBloodCo",
         "over_titus",
