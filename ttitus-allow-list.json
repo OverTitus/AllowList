@@ -232,6 +232,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "thecherrynyx",
         "KessieBear",
         "chupttv",
         "Hier_kommt_Kurt",
