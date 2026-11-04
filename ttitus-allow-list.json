@@ -233,6 +233,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "zeezums",
         "thecherrynyx",
         "KessieBear",
         "chupttv",
