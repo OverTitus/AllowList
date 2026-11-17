@@ -234,6 +234,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "blueberrybats",
         "Orchadion",
         "zeezums",
         "thecherrynyx",
