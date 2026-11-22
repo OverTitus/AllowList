@@ -235,6 +235,7 @@
     "guess-a-game": {
       "enabled": true,
       "allowedChannels": [
+        "ysokaa",
         "blueberrybats",
         "Orchadion",
         "zeezums",
